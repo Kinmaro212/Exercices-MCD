@@ -1,5 +1,8 @@
 # Exercices-MCD
-Bonjour, Je me permet de vous présenter des exercices sur les MCD.
+Bonjour, 
+je me permet de vous présenter des exercices sur les MCD,
+
+Cordialement
 
 # MCD de Livre
 ![MCD_LIVRE](https://github.com/user-attachments/assets/b9062a45-56d1-4eed-91b0-da2d1895ff61)
