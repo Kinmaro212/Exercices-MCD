@@ -1,7 +1,7 @@
 # Exercices-MCD
 Bonjour,
 
-je me permet de vous présenter des exercices sur les MCD,
+Je me permet de vous présenter des exercices sur les MCD,
 
 Cordialement
 
